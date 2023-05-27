@@ -1,11 +1,10 @@
 # 👩‍💻 Frontend Mentor - QR code component
 
-
-![Design preview for the QR code component coding challenge](./styles/images/preview.png)
-
 [Frontend Mentor challenges](https://www.frontendmentor.io/) help you improve your coding skills by building realistic projects.
 
 This is a solution for [QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
+![Design preview for the QR code component coding challenge](./styles/images/preview.png)
 
 
 ## The challenge
