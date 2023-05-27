@@ -37,7 +37,7 @@ The challenge is to build out this QR code component and get it looking as close
 ## Resources
 
 - [10 single layouts in 1 line of CSS](https://youtu.be/qm0IfG1GyZU)
-- [Footer ay bottom](https://youtu.be/yc2olxLgKLk)
+- [Footer at bottom](https://youtu.be/yc2olxLgKLk)
 
 
 ## Author
