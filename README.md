@@ -2,7 +2,7 @@
 
 [Frontend Mentor challenges](https://www.frontendmentor.io/) help you improve your coding skills by building realistic projects.
 
-This is a solution for [QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is a solution for [QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ![Design preview for the QR code component coding challenge](./styles/images/preview.png)
 
@@ -36,7 +36,7 @@ The challenge is to build out this QR code component and get it looking as close
 
 ## Resources
 
-- [10 single layouts in 1 line of CSS](https://youtu.be/qm0IfG1GyZU). 
+- [10 single layouts in 1 line of CSS](https://youtu.be/qm0IfG1GyZU)
 - [Footer ay bottom](https://youtu.be/yc2olxLgKLk)
 
 
