@@ -21,6 +21,9 @@ body {
   font-family: 'Outfit', sans-serif;
   background-color: var(--light-gray);
 }
+main {
+  margin-top: auto;
+}
 .card {
   display: flex;
   flex-direction: column;
