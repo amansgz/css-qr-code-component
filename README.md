@@ -1,10 +1,4 @@
-# 👩‍💻 Frontend Mentor - QR code component
-
-[Frontend Mentor challenges](https://www.frontendmentor.io/) help you improve your coding skills by building realistic projects.
-
-This is a solution for [QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-
-![Design preview for the QR code component coding challenge](./styles/images/preview.png)
+# 👩‍💻 QR code component
 
 
 ## The challenge
@@ -18,28 +12,19 @@ The challenge is to build out this QR code component and get it looking as close
 - Flexbox
 - Mobile-first workflow
 
-## Live site solution
 
-[Live site](https://amansgz.github.io/css-qr-code-component/) deployed with GitHub Pages.
+<div>
+  <h3>
+    <a href= "https://amansgz.github.io/css-qr-code-component/">
+      Live site
+    </a>
+    <span> | </span>
+    <a href= "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-## Coding Tips
+![Design preview for the QR code component coding challenge](./styles/images/preview.png)
 
-**How to align elements in the card**
-
-- Adding flex column and space between to the card.
-
-**How to mantain footer at bottom**
-
-- Setting width of 100% to html.
-- Adding flex column and min-height of 100% to body.
-- Adding margin-top auto to footer.
-
-## Resources
-
-- [10 single layouts in 1 line of CSS](https://youtu.be/qm0IfG1GyZU)
-- [Footer at bottom](https://youtu.be/yc2olxLgKLk)
-
-
-## Author
-
-- Frontend Mentor - [@amansgz](https://www.frontendmentor.io/profile/amansgz)
+This application/site was created as a submission to <a href= "https://www.frontendmentor.io/">Frontend Mentor Challenges</a> 
