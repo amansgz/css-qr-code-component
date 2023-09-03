@@ -27,7 +27,7 @@ body {
 main {
   display: grid;
   place-content: center;
-  padding: 3em;
+  height: 100vh;
 }
 .card {
   display: flex;
